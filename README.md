@@ -24,5 +24,7 @@ This project was created to:
 
 - HTML5  
 - CSS3 (Flexbox, Grid, Media Queries)
+![Screenshot (4)](https://github.com/user-attachments/assets/7faccd00-b9ce-4434-a004-df4cf9486c70)
 
+![Screenshot (5)](https://github.com/user-attachments/assets/fdf2e73a-8f18-4ea1-b641-6fe4905ab1b7)
 
